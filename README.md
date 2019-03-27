@@ -10,3 +10,4 @@
 6. [闭包](https://github.com/chudongyang/interview-question/blob/master/js/6.%E9%97%AD%E5%8C%85.md)
 7. [深拷贝和浅拷贝](https://github.com/chudongyang/interview-question/blob/master/js/7.%E6%B7%B1%E6%8B%B7%E8%B4%9D%E5%92%8C%E6%B5%85%E6%8B%B7%E8%B4%9D.md)
 8. [call、apply、和bind](https://github.com/chudongyang/interview-question/blob/master/js/8.call%E3%80%81apply%E5%92%8Cbind.md)
+9. [节流和防抖](https://github.com/chudongyang/interview-question/blob/master/js/9.%E8%8A%82%E6%B5%81%E5%92%8C%E9%98%B2%E6%8A%96.md)
