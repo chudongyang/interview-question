@@ -2,7 +2,7 @@
 每天总结一个或几个前端面试重难点，在前端的道路上砥砺前行！！！问题的答案持续优化中...
 
 ### css相关
-
+1. [回流和重绘](https://github.com/chudongyang/interview-question/blob/master/css/1.%E5%9B%9E%E6%B5%81%E5%92%8C%E9%87%8D%E7%BB%98.md)
 
 ### js基础
 1. [JavaScript的数据类型](https://github.com/chudongyang/interview-question/blob/master/js/1.JavaScript%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.md)
@@ -20,4 +20,4 @@
 1. [节流和防抖](https://github.com/chudongyang/interview-question/blob/master/performance/1.%E8%8A%82%E6%B5%81%E5%92%8C%E9%98%B2%E6%8A%96.md)
 
 ### 算法相关
-1. [回文字符串]()
+1. [回文字符串](https://github.com/chudongyang/interview-question/blob/master/algorithm/1.%E5%9B%9E%E6%96%87%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
