@@ -16,7 +16,7 @@
 9. [9种常见的跨域手段](https://github.com/chudongyang/interview-question/blob/master/js/9.%E5%B8%B8%E8%A7%81%E7%9A%84%E8%B7%A8%E5%9F%9F%E6%89%8B%E6%AE%B5.md)
 10. [进程和线程](https://github.com/chudongyang/interview-question/blob/master/js/10.%E8%BF%9B%E7%A8%8B%E5%92%8C%E7%BA%BF%E7%A8%8B.md)
 
-### 前端优化手段
+### 前端优化和安全
 1. [节流和防抖](https://github.com/chudongyang/interview-question/blob/master/performance/1.%E8%8A%82%E6%B5%81%E5%92%8C%E9%98%B2%E6%8A%96.md)
 
 ### 算法相关
