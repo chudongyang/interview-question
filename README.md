@@ -22,7 +22,6 @@
 
 ### 算法相关
 1. [回文字符串](https://github.com/chudongyang/interview-question/blob/master/algorithm/1.%E5%9B%9E%E6%96%87%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
-2. [数字的链式调用]()
-3. [字符串反转]()
-4. [整数反转]()
-5. [获取字符串中次数最多的字符]()
+2. [数字的链式调用](https://github.com/chudongyang/interview-question/blob/master/algorithm/2.%E6%95%B0%E5%AD%97%E7%9A%84%E9%93%BE%E5%BC%8F%E8%B0%83%E7%94%A8.md)
+3. [字符串和整数反转](https://github.com/chudongyang/interview-question/blob/master/algorithm/3.%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%92%8C%E6%95%B4%E6%95%B0%E5%8F%8D%E8%BD%AC.md)
+4. [获取字符串中次数最多的字符](https://github.com/chudongyang/interview-question/blob/master/algorithm/5.%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E5%AD%97%E7%AC%A6%E6%AC%A1%E6%95%B0.md)
