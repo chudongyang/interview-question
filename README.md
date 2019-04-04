@@ -23,3 +23,6 @@
 ### 算法相关
 1. [回文字符串](https://github.com/chudongyang/interview-question/blob/master/algorithm/1.%E5%9B%9E%E6%96%87%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
 2. [数字的链式调用]()
+3. [字符串反转]()
+4. [整数反转]()
+5. [获取字符串中次数最多的字符]()
