@@ -15,7 +15,7 @@
 8. [call、apply、和bind](https://github.com/chudongyang/interview-question/blob/master/js/8.call%E3%80%81apply%E5%92%8Cbind.md)
 9. [9种常见的跨域手段](https://github.com/chudongyang/interview-question/blob/master/js/9.%E5%B8%B8%E8%A7%81%E7%9A%84%E8%B7%A8%E5%9F%9F%E6%89%8B%E6%AE%B5.md)
 10. [进程和线程](https://github.com/chudongyang/interview-question/blob/master/js/10.%E8%BF%9B%E7%A8%8B%E5%92%8C%E7%BA%BF%E7%A8%8B.md)
-11. [函数柯理化]()
+11. [函数柯理化等概念](https://github.com/chudongyang/interview-question/blob/master/js/11.%E5%87%BD%E6%95%B0%E6%9F%AF%E7%90%86%E5%8C%96.md)
 
 ### 前端优化和安全
 1. [节流和防抖](https://github.com/chudongyang/interview-question/blob/master/performance/1.%E8%8A%82%E6%B5%81%E5%92%8C%E9%98%B2%E6%8A%96.md)
@@ -24,4 +24,7 @@
 1. [回文字符串](https://github.com/chudongyang/interview-question/blob/master/algorithm/1.%E5%9B%9E%E6%96%87%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
 2. [数字的链式调用](https://github.com/chudongyang/interview-question/blob/master/algorithm/2.%E6%95%B0%E5%AD%97%E7%9A%84%E9%93%BE%E5%BC%8F%E8%B0%83%E7%94%A8.md)
 3. [字符串和整数反转](https://github.com/chudongyang/interview-question/blob/master/algorithm/3.%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%92%8C%E6%95%B4%E6%95%B0%E5%8F%8D%E8%BD%AC.md)
-4. [获取字符串中次数最多的字符](https://github.com/chudongyang/interview-question/blob/master/algorithm/5.%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E5%AD%97%E7%AC%A6%E6%AC%A1%E6%95%B0.md)
+4. [获取字符串中次数最多的字符](https://github.com/chudongyang/interview-question/blob/master/algorithm/4.%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E5%AD%97%E7%AC%A6%E6%AC%A1%E6%95%B0.md)
+
+### vue相关
+- [@vue/cli 3.X版本相关配置]()
