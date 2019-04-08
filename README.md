@@ -3,7 +3,7 @@
 
 ### css相关
 1. [回流和重绘](https://github.com/chudongyang/interview-question/blob/master/css/1.%E5%9B%9E%E6%B5%81%E5%92%8C%E9%87%8D%E7%BB%98.md)
-
+2. [记录不常遇到但是有用的css]()
 ### js基础
 1. [JavaScript的数据类型](https://github.com/chudongyang/interview-question/blob/master/js/1.JavaScript%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.md)
 2. [数据类型的转换](https://github.com/chudongyang/interview-question/blob/master/js/2.%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E7%9A%84%E8%BD%AC%E6%8D%A2.md)
