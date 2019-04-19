@@ -17,6 +17,8 @@
 9. [9种常见的跨域手段](https://github.com/chudongyang/interview-question/blob/master/js/9.%E5%B8%B8%E8%A7%81%E7%9A%84%E8%B7%A8%E5%9F%9F%E6%89%8B%E6%AE%B5.md)
 10. [进程和线程](https://github.com/chudongyang/interview-question/blob/master/js/10.%E8%BF%9B%E7%A8%8B%E5%92%8C%E7%BA%BF%E7%A8%8B.md)
 11. [函数柯理化等概念](https://github.com/chudongyang/interview-question/blob/master/js/11.%E5%87%BD%E6%95%B0%E6%9F%AF%E7%90%86%E5%8C%96.md)
+12. [为什么0.1+0.2!=0.3](https://github.com/chudongyang/interview-question/blob/master/js/12.%E4%B8%BA%E4%BB%80%E4%B9%880.1%2B0.2!%3D0.3.md)
+13. [script和meta标签](https://github.com/chudongyang/interview-question/blob/master/js/13.script%E5%92%8Cmeta.md)
 
 ### 前端优化和安全
 1. [节流和防抖](https://github.com/chudongyang/interview-question/blob/master/performance/1.%E8%8A%82%E6%B5%81%E5%92%8C%E9%98%B2%E6%8A%96.md)
